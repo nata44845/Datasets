@@ -1,4 +1,4 @@
-,CustomerId,Surname,Geography,Gender,Age,EstimatedSalary
+id,CustomerId,Surname,Geography,Gender,Age,EstimatedSalary
 0,15634602,Hargrave,France,Female,42,101348.88
 1,15647311,Hill,Spain,Female,41,112542.58
 2,15619304,Onio,France,Female,42,113931.57

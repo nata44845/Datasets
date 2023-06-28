@@ -1,4 +1,4 @@
-,CustomerId,Tenure,Balance,NumOfProducts,HasCrCard,IsActiveMember,Exited
+id,CustomerId,Tenure,Balance,NumOfProducts,HasCrCard,IsActiveMember,Exited
 0,15634602,2,0.0,1,1,1,1
 1,15647311,1,83807.86,1,0,1,0
 2,15619304,8,159660.8,3,1,0,1
